@@ -15,23 +15,16 @@
 <br>
 
  ## 💡 Motivation of this project
-  보건복지부는 2012년 11월 15일부터 소정의 등록 조건을 만족한다면, 약국과 병원 이 외의 판매처에서 
-‘안전상비의약품’을 판매할 수 있도록 약사법을 개정하였습니다. 이에 따라 소비자는 일반의약품에 쉽게 접근하며, 약국이 
-문을 닫는 공휴일과 심야 시간대에도 의약품을 구입할 수 있게 되어 불편을 해소하게 되었습니다.  
-이렇게 약사법이 개정됨에 따라 ‘안전상비의약품’을 구매하는 소비자는 약물의 유효성분 마다 주의점과 부작용을 제대로 
-설명 들을 수 없습니다. 따라서 전문가의 조언 없이 본인의 판 단하에 의약품을 선택해 복용하는 것은 소비자에게 
-의약품의 오남용, 그로 인한 부작용 등 의 위험이 있을 수 있습니다.  
-본 프로젝트에서는 이런 경우를 대비할 수 있도록 의약품의 사진을 찍어 Application이나 반응형 웹 환경에 업로드를 하면 
-전문가가 아닌 소비자도 의약품의 유효성분과 주의사항 그리고 병용금기 성분 같은 상세정보를 한눈에 확인할 수 있도록 
-하는 시스템을 개발하는 과정을 담고 있습니다.  
+  보건복지부는 2012년 11월 15일부터 소정의 등록 조건을 만족한다면, 약국과 병원 이 외의 판매처에서 ‘안전상비의약품’을 판매할 수 있도록 약사법을 개정하였습니다. 이에 따라 소비자는 일반의약품에 쉽게 접근하며, 약국이 문을 닫는 공휴일과 심야 시간대에도 의약품을 구입할 수 있게 되어 불편을 해소하게 되었습니다.  
+이렇게 약사법이 개정됨에 따라 ‘안전상비의약품’을 구매하는 소비자는 약물의 유효성분 마다 주의점과 부작용을 제대로 설명 들을 수 없습니다. 따라서 전문가의 조언 없이 본인의 판 단하에 의약품을 선택해 복용하는 것은 소비자에게 의약품의 오남용, 그로 인한 부작용 등 의 위험이 있을 수 있습니다.  
+본 프로젝트에서는 이런 경우를 대비할 수 있도록 의약품의 사진을 찍어 Application이나 반응형 웹 환경에 업로드를 하면 전문가가 아닌 소비자도 의약품의 유효성분과 주의사항 그리고 병용금기 성분 같은 상세정보를 한눈에 확인할 수 있도록 하는 시스템을 개발하는 과정을 담고 있습니다.  
 
  
 <br>
 
 ## 📑 Features of this project
  ### ⚙ It Provides:
-* 의약품 이미지와 정보를 [NIH](https://www.nlm.nih.gov/) 와 [공공데이터](https://www.data.go.kr/) 에서 받아 
-[Xception](https://arxiv.org/abs/1610.02357) 모델을 이용하여 학습하였습니다.
+* 의약품 이미지와 정보를 [NIH](https://www.nlm.nih.gov/) 와 [공공데이터](https://www.data.go.kr/) 에서 받아 [Xception](https://arxiv.org/abs/1610.02357) 모델을 이용하여 학습하였습니다.
 * 의약품 사진을 통해 의약품의 상세정보를 확인할 수 있습니다.
 * 모바일 앱을 통해 등록된 의약품의 병용금기와 주의사항을 확인할 수 있습니다.
 
@@ -62,10 +55,7 @@
  <div align="center">
  
   
- |<img src="https://avatars.githubusercontent.com/u/6503979?v=4" width="80">|<img 
-src="https://avatars.githubusercontent.com/u/113992906?v=4" width="80">|<img 
-src="https://avatars.githubusercontent.com/u/114410976?v=4" width="80">|<img 
-src="https://avatars.githubusercontent.com/u/114422867?v=4" width="80">|
+ |<img src="https://avatars.githubusercontent.com/u/6503979?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/113992906?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/114410976?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/114422867?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
 |[배서연](https://github.com/bsy0317)|[김진우](https://github.com/Jinwoo53)|[최윤철](https://github.com/matzzip)|[나현서](https://github.com/nahyeonseo)|
 |Back-end<br>Front-end Web<br>Mobile Client<br>Design|Mobile Client|Front-end Web<br>Mobile Client|Mobile Client
@@ -76,4 +66,3 @@ src="https://avatars.githubusercontent.com/u/114422867?v=4" width="80">|
  
  ## 🧾 README.md Reference
  [oss-talkative](https://github.com/oss-talkative/.github) 저장소에서 README.md를 참고하여 수정하였습니다.
-
