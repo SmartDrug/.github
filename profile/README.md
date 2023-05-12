@@ -46,7 +46,9 @@
 - Flask
 
 ### Web Front-End
-- Javascript
+- JQuery
+- PHP
+- NodeJS
 
 <br>
 
@@ -57,8 +59,8 @@
   
  |<img src="https://avatars.githubusercontent.com/u/6503979?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/113992906?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/114410976?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/114422867?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
-|[배서연](https://github.com/bsy0317)|[김진우](https://github.com/Jinwoo53)|[최윤철](https://github.com/matzzip)|[나현서](https://github.com/nahyeonseo)|
-|Back-end<br>Front-end Web<br>Mobile Client<br>Design|Mobile Client|Front-end Web<br>|
+|[배서연](https://github.com/bsy0317)|[~~김진우~~](https://github.com/Jinwoo53)|[~~최윤철~~](https://github.com/matzzip)|[~~나현서~~](https://github.com/nahyeonseo)|
+|Back-end<br>Front-end Web<br>Mobile Client<br>Design|~~Mobile Client~~|~~Front-end Web~~<br>|
   
  </div>
  
