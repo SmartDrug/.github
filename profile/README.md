@@ -39,16 +39,18 @@
 
 ### Back-End Server
 - Python
-- Pytorch
-- Scikit-learn
 - OpenCV
-- Tesseract OCR
 - Flask
+- Pytorch
+- Tesseract OCR
+- Scikit-learn
+- Google LLM API
 
 ### Web Front-End
 - JQuery
 - PHP
 - NodeJS
+- BootStrap
 
 <br>
 
