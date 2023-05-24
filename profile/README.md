@@ -54,15 +54,26 @@
 
 ## 🧑‍💻 Project Members
  
- <div align="center">
- 
-  
- |<img src="https://avatars.githubusercontent.com/u/6503979?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/113992906?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/114410976?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/114422867?v=4" width="80">|
-|:---:|:---:|:---:|:---:|
-|[배서연](https://github.com/bsy0317)|[~~김진우~~](https://github.com/Jinwoo53)|[~~최윤철~~](https://github.com/matzzip)|[~~나현서~~](https://github.com/nahyeonseo)|
-|Back-end<br>Front-end Web<br>Mobile Client<br>Design|~~Mobile Client~~|~~Front-end Web~~<br>|
-  
- </div>
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/6503979?v=4" width="80"></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/113992906?v=4" width="80"></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/114410976?v=4" width="80"></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/114422867?v=4" width="80"></td>
+    </tr>
+    <tr align="center">
+      <td align="center"><a href="https://github.com/bsy0317">배서연</a></td>
+      <td align="center"><a href="https://github.com/Jinwoo53">김진우</a></td>
+      <td align="center"><a href="https://github.com/matzzip">최윤철</a></td>
+      <td align="center"><a href="https://github.com/nahyeonseo">나현서</a></td>
+    </tr>
+     <tr align="center">
+       <td align="center"><p><i>Back-End<br>Front-End<br>Mobile Client<br>Web<br>Design<br>Documentation</i></p></td>
+       <td align="center" colspan="4"><p><i>Documentation</i></p></td>
+     </tr>
+  </table> 
+</div>
  
  <br>
  
